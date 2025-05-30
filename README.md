@@ -21,7 +21,7 @@ An advanced Legal RAG (Retrieval-Augmented Generation) ChatBot that uses LangCha
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ChatBotWithMemory.git
+git clone https://github.com/pks98/ChatBotWithMemory.git
 cd ChatBotWithMemory
 ```
 
